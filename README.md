@@ -15,7 +15,8 @@ A powerful and advanced Telegram bot for mass reporting with image support and e
 
 ## 🚀 Quick Deploy
 
-[![Deploy to Heroku]("https://dashboard.heroku.com/new?template=https://github.com/Samarth-1206/Kaisen-repoter")](https://dashboard.heroku.com/new?template=https://github.com/Samarth-1206/Kaisen-repoter)
+[![Deploy to Heroku]("https://dashboard.heroku.com/new?template=https://github.com/SAMHEHE1/Kaisen-repoter-)
+")](https://dashboard.heroku.com/new?template=https://github.com/SAMHEHE1/Kaisen-repoter-)
 
 ## 📋 Environment Variables
 
