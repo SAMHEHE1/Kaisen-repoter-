@@ -84,5 +84,5 @@ class UIHelper:
             f"├ 👑 Premium Users: `{stats.get('premium', 0)}`\n"
             f"└ ⏰ Server Time: `{datetime.now().strftime('%H:%M:%S')}`\n\n"
             "🎯 **USE BELOW BUTTONS TO START OPERATIONS\\.**\n\n"
-            "🔥 **MAINTAINED BY:** `Sujoy™` 🔥"
+            "🔥 **MAINTAINED BY:** `ᴋ ᴀ ɪ ꜱ ᴇ ɴ` 🔥"
         )
