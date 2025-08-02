@@ -61,11 +61,11 @@ class MassReporterBot:
         self.session_cooldown = int(os.getenv('SESSION_COOLDOWN', '300'))
         
         # Updated social links and developer info
-        self.vouch_channel = os.getenv('VOUCH_CHANNEL', 'https://t.me/your_vouch_channel')
-        self.update_channel = os.getenv('UPDATE_CHANNEL', 'https://t.me/your_updates')
-        self.telegram_channel = os.getenv('TELEGRAM_CHANNEL', 'https://t.me/your_channel')
-        self.developer_username = os.getenv('DEVELOPER_USERNAME', 'iArshOp')
-        self.developer_name = os.getenv('DEVELOPER_NAME', 'ᴀʀꜱʜ ᴏᴡɴᴇʀx')
+        self.vouch_channel = os.getenv('VOUCH_CHANNEL', 'https://t.me/i_kaisen')
+        self.update_channel = os.getenv('UPDATE_CHANNEL', 'https://t.me/kaisen_updates')
+        self.telegram_channel = os.getenv('TELEGRAM_CHANNEL', 'https://t.me/i_kaisen')
+        self.developer_username = os.getenv('DEVELOPER_USERNAME', 'i_kaisen')
+        self.developer_name = os.getenv('DEVELOPER_NAME', 'ᴏᴡɴᴇʀ')
         
         if not all([self.bot_token, self.admin_user_id]):
             raise ValueError("BOT_TOKEN and ADMIN_USER_ID are required!")
