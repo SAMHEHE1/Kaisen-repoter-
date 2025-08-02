@@ -15,7 +15,7 @@ A powerful and advanced Telegram bot for mass reporting with image support and e
 
 ## 🚀 Quick Deploy
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Heroku]("https://dashboard.heroku.com/new?template=https://github.com/Badnam019/Ganduchut")](https://heroku.com/deploy)
 
 ## 📋 Environment Variables
 
