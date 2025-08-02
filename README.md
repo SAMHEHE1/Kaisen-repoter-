@@ -142,8 +142,8 @@ The bot provides real-time monitoring:
 
 - 💬 Support Group: [Join Here](https://t.me/your_support)
 - 🔄 Updates: [Follow Here](https://t.me/your_updates)
-- 📺 YouTube: [Subscribe Here](https://youtube.com/@your_channel)
-- 👨‍💻 Developer: [@SujoyDeveloper](https://t.me/SujoyDeveloper)
+- 📺 YouTube: [Subscribe Here](https://youtube.com/@ycur_channel)
+- 👨‍💻 Developer: [kaisen](https://t.me/ixigio)
 
 ## 📄 License
 
