@@ -20,11 +20,11 @@ class UIHelper:
                 InlineKeyboardButton("👑 PREMIUM PANEL", callback_data="premium_panel")
             ],
             [
-                InlineKeyboardButton("💬 SUPPORT GROUP", url="https://t.me/your_support"),
-                InlineKeyboardButton("🔄 UPDATE GROUP", url="https://t.me/your_updates")
+                InlineKeyboardButton("💬 SUPPORT GROUP", url="https://t.me/GHOULS_SUPPORT"),
+                InlineKeyboardButton("🔄 UPDATE GROUP", url="https://t.me/KAISEN_UPDATES")
             ],
             [
-                InlineKeyboardButton("📺 SUBSCRIBE MY YOUTUBE CHANNEL", url="https://youtube.com/@your_channel")
+                InlineKeyboardButton("📺 MY CHANNEL", url="https://t.me/I_KAISEN")
             ],
             [
                 InlineKeyboardButton("🔥 DEVELOPER 🔥", callback_data="developer_info")
