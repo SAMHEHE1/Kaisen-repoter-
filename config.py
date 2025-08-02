@@ -14,8 +14,8 @@ def load_config() -> Dict:
         'api_id': os.getenv('API_ID'),
         'api_hash': os.getenv('API_HASH'),
         # UI Configuration
-        'support_group': os.getenv('SUPPORT_GROUP', 'https://t.me/your_support'),
-        'update_group': os.getenv('UPDATE_GROUP', 'https://t.me/your_updates'),
+        'support_group': os.getenv('SUPPORT_GROUP', 'https://t.me/GHOULS_SUPPORT'),
+        'update_group': os.getenv('UPDATE_GROUP', 'https://t.me/KAISEN_UPDATES'),
         'youtube_channel': os.getenv('YOUTUBE_CHANNEL', 'https://youtube.com/@your_channel'),
-        'developer_username': os.getenv('DEVELOPER_USERNAME', 'iarshop')
+        'developer_username': os.getenv('DEVELOPER_USERNAME', 'ixigio')
     }
